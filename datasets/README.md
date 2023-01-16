@@ -4,7 +4,11 @@ This folder is dedicated to the datasets I will be using on my master's disserta
 
 The main idea here is to gather as much datasets as possible, with an emphasis on dihydrofolate reductase (DHFR) inhibitors (both **human** and from *Plasmodium spp.*). 
 
-The first step is to construct a chemical space (CS) and compare each of the datasets.
+The first step is to construct a chemical space (CS) and compare each of the datasets. These are chemical libraries I'm going to try and retrieve any information regarding human and *Plasmodium* DHFR inhibitors:
+* ChEMBL
+* DrugDB
+* ZINC
+
 
 Process steps:
 
