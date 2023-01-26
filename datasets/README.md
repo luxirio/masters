@@ -9,12 +9,11 @@ The first step is to construct a chemical space (CS) and compare each of the dat
 * DrugDB
 * ZINC
 
-
 Process steps:
 
 ## Step 1 - Gathering of datasets:
-* Gather known human DHFR inhibitors. (in progress)
-* Gather known *Plasmodium spp.* DHFR inhibitors. (in progress)
+* Gather known human DHFR inhibitors. (ZINC and ChEMBL) (✓)
+* Gather known *Plasmodium spp.* DHFR inhibitors. (ZINC and ChEMBL) (✓)
 * Gather FDA-approved drugs. (✓)
 * Gather other relevant datasets such as NuBBE (brazilian natural products) or other chemical libraries.
 
